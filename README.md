@@ -5,7 +5,7 @@ Welcome to my QA Engineer Portfolio!
 
 I am an aspiring QA Engineer with a focus on Manual Testing and API Testing.
 
-My Skills
+ ## My Skills
 
 - Manual Testing
 - Test Case Design and Execution
@@ -29,7 +29,7 @@ My Skills
 - Identified and documented software defects.
 - Verified actual results against expected results.
 
-Career Goal
+## Career Goal
 
 My goal is to become a professional QA Engineer and continuously improve my software testing skills.
 
