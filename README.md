@@ -14,12 +14,20 @@ My Skills
 - Regression Testing
 - REST API Testing with Postman
 
-My Projects
+## My Projects
 
 - E-Commerce Website Testing
 - Test Execution Reports
 - Bug Report Documentation
 - REST API Testing with Postman
+
+### Manual Testing – Test Case Documentation
+
+- Designed and executed test cases for E-Commerce applications.
+- Covered Positive and Negative test scenarios.
+- Tested Login, Registration, Shopping Cart, Checkout and Payment functionality.
+- Identified and documented software defects.
+- Verified actual results against expected results.
 
 Career Goal
 
